@@ -16,3 +16,6 @@
 - 파이썬의 PIL 라이브러리로 오답노트 생성
 - 프론트 엔드, 즉 UI는 Flutter을 사용해서 iOS와 Android에서 모두 사용할 수 있도록 구현
 - 백엔드는 Flask를 사용해서 서버를 구현하여 프론트엔드와 통신
+
+### 시스템 개요
+<img src="img/시스템 개요.png" alt="Example Image" width="500"/>
