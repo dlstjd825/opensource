@@ -24,4 +24,4 @@
 <hr/>
 
 ### 시스템 개요
-<img src="img/시스템 개요.png" alt="Example Image" width="500"/>
+<img src="img/시스템개요.png" alt="Example Image" width="500"/>
