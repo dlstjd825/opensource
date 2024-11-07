@@ -12,8 +12,8 @@ then
        i=$((i + 1))
    done
 
-   tar cvf $1.tar file0.txt file1.txt file2.txt file3.txt file4.txt
-
+   tar cf $1.tar file0.txt file1.txt file2.txt file3.txt file4.txt
+   ls
    mkdir $1
    
    mv $1.tar $1
